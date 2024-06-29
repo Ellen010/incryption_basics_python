@@ -1,1 +1,1 @@
-Simple incryption file in Python.
+Simple incryption/decryption file in Python.
